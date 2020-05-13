@@ -1,2 +1,2 @@
-# SImple Guess The Number Game using unity2D
+# Simple Guess The Number CONSOLE Game using unity2D
  
