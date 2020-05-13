@@ -1,2 +1,2 @@
-# Some games by learning unity2D
+# SImple Guess The Number Game using unity2D
  
