@@ -1,2 +1,2 @@
-# Some games by learing unity2D
+# Some games by learning unity2D
  
